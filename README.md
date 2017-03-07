@@ -7,6 +7,12 @@
     - NIS           : 4675/1394.070
     - Asal Sekolah  : SMK Telkom Malang
     
+## Screenshoot Hasil Program
+
+  ![SS1](https://s4.postimg.org/fjws859n1/hasil1.png)
+  
+  ![SS2](https://s12.postimg.org/sbteqo9il/hasil2.png)
+    
 ## Screenshoot Kode Button
 
   ![SS1](https://s17.postimg.org/abaxd5ysv/save.png)
